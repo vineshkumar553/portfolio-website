@@ -1,4 +1,3 @@
-<script>
 
         function showSidebar() {
             const sidebar = document.querySelector('.sidebar');
@@ -9,5 +8,3 @@
             const sidebar = document.querySelector('.sidebar');
             sidebar.style.right = "-230px";
         }
-
-    </script>
